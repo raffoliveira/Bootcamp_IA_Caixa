@@ -14,6 +14,12 @@ A seguir, apresento algumas telas de interação com a IA na produção de um ap
 
 ![iteracao5](images/print_5.png)
 
+![iteracao6](images/print_6.png)
+
+![iteracao7](images/print_7.png)
+
+![iteracao8](images/print_8.png)
+
 
 ## Análise
   - O que funcionou bem?  
