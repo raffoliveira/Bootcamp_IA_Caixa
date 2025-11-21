@@ -4,15 +4,15 @@ Baseado no prompt presente no arquivo [prd.md](prd.md), criei o scopo do PRD par
 
 A seguir, apresento algumas telas de interação com a IA na produção de um app minimamente funcional.
 
-[iteracao1](images/print_1.png)
+![iteracao1](images/print_1.png)
 
-[iteracao2](images/print_2.png)
+![iteracao2](images/print_2.png)
 
-[iteracao3](images/print_3.png)
+![iteracao3](images/print_3.png)
 
-[iteracao4](images/print_4.png)
+![iteracao4](images/print_4.png)
 
-[iteracao5](images/print_5.png)
+![iteracao5](images/print_5.png)
 
 
 ## Análise
