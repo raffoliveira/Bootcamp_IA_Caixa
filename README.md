@@ -22,6 +22,14 @@ A seguir, apresento algumas telas de interação com a IA na produção de um ap
 
 
 ## Análise
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - **O que funcionou bem?**
+    
+    Uso da IA auxiliou bastante no entendimento e na criação de um esboço inicial do app.
+    
+  - **O que não funcionou como o esperado?**
+    
+    A maioria das aplicações de IA oferecem uma limitação no uso de certas funcionalidades, restrigindo a interação com a mesma.
+    
+  - **O que aprendeu sobre conversar com IAs?**
+    
+    Basicamente quanto mais detalhes e instruções bem claras no prompt, mais fácil fica a obtenção de um resultado bom.
