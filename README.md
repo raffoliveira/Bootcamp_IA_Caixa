@@ -1,35 +1,16 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# Estudos em Inteligência Artificial
 
-Baseado no prompt presente no arquivo [prd.md](prd.md), criei o scopo do PRD para o app de finanças usando o ChatGPT.
+Este repositório reúne materiais, códigos e experimentos desenvolvidos durante meus estudos em **Inteligência Artificial**, com foco em aplicações práticas em contexto corporativo.
 
-A seguir, apresento algumas telas de interação com a IA na produção de um app minimamente funcional.
+Atualmente estou em formação pela **Digital Innovation One (DIO)**, participando da trilha de **IA na prática em parceria com a Caixa**.
 
-![iteracao1](images/print_1.png)
+---
 
-![iteracao2](images/print_2.png)
+## Objetivos dos Estudos
 
-![iteracao3](images/print_3.png)
-
-![iteracao4](images/print_4.png)
-
-![iteracao5](images/print_5.png)
-
-![iteracao6](images/print_6.png)
-
-![iteracao7](images/print_7.png)
-
-![iteracao8](images/print_8.png)
+- Aprofundar conhecimentos em **IA e Machine Learning**  
+- Aplicar conceitos em **casos de uso práticos**, especialmente na área financeira  
+- Estruturar uma base de código reutilizável para futuros projetos de IA  
 
 
-## Análise
-  - **O que funcionou bem?**
-    
-    Uso da IA auxiliou bastante no entendimento e na criação de um esboço inicial do app.
-    
-  - **O que não funcionou como o esperado?**
-    
-    A maioria das aplicações de IA oferecem uma limitação no uso de certas funcionalidades, restrigindo a interação com a mesma.
-    
-  - **O que aprendeu sobre conversar com IAs?**
-    
-    Basicamente quanto mais detalhes e instruções bem claras no prompt, mais fácil fica a obtenção de um resultado bom.
+Este repositório está em constante evolução e servirá como referência para minha jornada de especialização em Inteligência Artificial.
