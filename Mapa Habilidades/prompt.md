@@ -4,7 +4,7 @@
 
 - [Etapa 1: Inventário de Habilidades](#etapa-1-inventario-de-habilidades)
 - [Etapa 2: Cruzamento com Necessidades do Mercado](#etapa-2-cruzamento-com-necessidades-do-mercado)
-- [Etapa 3: Caminhos de Monetização](#etapa-3-caminhos-de-monetizacao)
+- [Etapa 3: Caminhos de Monetização](#etapa-3-caminhos-de-monetização)
 
 ## Etapa 1: Inventário de Habilidades
 
